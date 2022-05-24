@@ -1,5 +1,6 @@
 # BIOMI 609 Computational Genomics and Bioinformatics
 This repository contains curricular material, lecture notes, labs, assignments, exams, code, solutions from the Spring 2022 version of BIOMI 609 Computational Genomics and Bioinformatics offered at San Diego State University.
+All lectures can be accessed at this YouTube Playlist: https://youtube.com/playlist?list=PL1e4GDlV5mnTQPoB7HR8UxQpq5stdMLiO
 
 **Course Description:**
 BIOMI/CS 609 Computational Genomics and Bioinformatics
@@ -25,8 +26,9 @@ Outcomes 4, 5: Lab exercises in programming, take-home assignments
 Outcome 1: Students are expected to practice analyses discussed in class on their own, during lab, and after class on a regular basis. The only way to learn genomics is by doing. While the background reading provides you some basic information, you will not learn anything if you don’t do it yourself.
 Outcome 2: Practice problems, work out assignments, work in groups, if need be.
 Outcome 3: Come to class, work on learning methods during lab, work separately on data analyses.
-Outcomes 4, 5: Practice, practice, practice! I can’t stress this enough. You are signed up for a class in genomics – you will learn to code. Period. If you don’t want to learn coding, or don’t care about it, please drop the class. This is not a class on just applying existing tools, you will write some tools yourself
+Outcomes 4, 5: Practice, practice, practice! I can’t stress this enough. You are signed up for a class in genomics – you will learn to code. Period. If you don’t want to learn coding, or don’t care about it, please drop the class. This is not a class on just applying existing tools, you will write some tools yourself.
 
 
 _The syllabus is tentative and is subject to change depending on how far we get each day.  The problems will be due after we have discussed that topic. I will give you updates each week as to what problems will be due. 
 _
+
